@@ -10,7 +10,7 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
     │   └── ShamirSecretSharing.java  (Main Java file containing the implementation)
     
     ├── lib/
-    │   └── json-json-20140107.jar        (External JSON library for parsing input)
+    │   └── json-20140107.jar        (External JSON library for parsing input)
     
     ├── test/
     │   └── input.json               (Test case input in JSON format)
